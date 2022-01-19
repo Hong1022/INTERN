@@ -6,4 +6,5 @@ router.get("/", function(req,res,){
     console.log("Hello I'm on the start game here");
     res.render("index");
 });
-module.export = router;
+
+module.exports = router;

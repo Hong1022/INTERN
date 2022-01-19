@@ -1,0 +1,24 @@
+{
+  "name": "intern",
+  "version": "0.0.1",
+  "description": "This is an app that we'll create showing off the basics of node.js",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hong1022/INTERN.git"
+  },
+  "author": "Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hong1022/INTERN/issues"
+  },
+  "homepage": "https://github.com/Hong1022/INTERN#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
+}
